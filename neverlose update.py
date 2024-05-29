@@ -9,8 +9,8 @@ from email.header import Header
 
 smtp_server = 'smtp.qq.com'
 smtp_port = 587
-sender_email = '421881218@qq.com'
-password = 'tvkyntiwnroqbhbg'
+sender_email = '@qq.com'
+password = ''
 
 driver = webdriver.Chrome()
 driver.get("https://en.neverlose.cc/sub?type=cs2")
